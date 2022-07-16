@@ -53,3 +53,5 @@ git commit -m ":tada: Initial commit"
 | Code review changes        | :ok_hand: `:ok_hand:`                         |
 | Accessibility              | :wheelchair: `:wheelchair:`                   |
 | Move/rename repository     | :truck: `:truck:`                             |
+| Typo repair                | :pencil2: `:pencil2:`                         |
+| Write a document           | :memo: `:memo:`                               |
