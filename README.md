@@ -1,4 +1,4 @@
-# Emoji сommits guide
+# Emoji сommits guide v1.1.1
 
 A little guide to using emoji in commits
 
